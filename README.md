@@ -15,7 +15,7 @@ No known bugs.
 ## Technologies Used
 I used HTML to write the initial page setup code, and CSS to style the webpage. 
 ## Support and contact details
-Reach out today with any issues, concerns, or contributions: support@benson-langat-portfolio.com
+Reach out today with any issues, concerns, or contributions: davinci.monalissa@gmail.com
 ### License
 Copyright (c) 2022 Benson Langat
 
