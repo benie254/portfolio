@@ -10,7 +10,7 @@ body {
   box-sizing: content-box;
 }
 .header {
-  background-image: url(../assets/img/black-2121741_1280.png);
+  background-image: url(file:///home/benie/Downloads/black-2121741_1280.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -18,8 +18,8 @@ body {
 }
 img {
   padding-top: 2%;
-  max-width: 900px;
-  max-height: 400px;
+  max-width: 750px;
+  max-height: 250px;
 }
 
 .card:hover .card-img-top {
@@ -41,6 +41,7 @@ img {
 
 .card-img-top {
   padding-right: 5%;
+
 }
 
 .card-group {
@@ -53,20 +54,15 @@ img {
 }
 
 .row-about-me {
-  padding-bottom: 20%;
+  padding-bottom: 40%;
   padding-top: 10%;
   margin-left: 1.5%;
   margin-right: 1.5%;
 }
 
 .section-3 {
-  background-image: url(../assets/img/comp.jpg);
+  background-image: url(../img/comp.jpg);
   background-position: center;
   background-size:auto;
   background-repeat: no-repeat;
-}
-
-.projects {
-  padding-left: 10%;
-  padding-right: 10%;
 }
