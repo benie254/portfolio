@@ -11,3 +11,6 @@ img {
   max-width: 750px;
   max-height: 250px;
 }
+.card-body {
+  display: none;
+}
