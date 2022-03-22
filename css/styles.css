@@ -6,36 +6,8 @@ body {
 .selector-for-some-widget {
   box-sizing: content-box;
 }
-.column {
-  float: left;
-  width: 33.3%;
-}
-@media screen and (max-width: 300px) {
-  .column {
-    width: 100%;
-  }
-}
+
 img {
   max-width: 750px;
   max-height: 250px;
-}
-.box {
-  width: 300px;
-  height: 150px;
-  margin: 15px;
-  padding: 20px;
-  border: 3px solid black;
-  float: right;
-}
-h1 {
-  margin: 0;
-}
-h2 {
-  margin: 0;
-}
-.important {
-  float: left;
-}
-.bottom-container {
-  float: left;
 }
