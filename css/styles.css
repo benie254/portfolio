@@ -10,7 +10,7 @@ body {
   box-sizing: content-box;
 }
 .header {
-  background-image: url(file:///home/benie/Downloads/black-2121741_1280.png);
+  background-image: url(../assets/img/black-2121741_1280.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -61,7 +61,7 @@ img {
 }
 
 .section-3 {
-  background-image: url(../img/comp.jpg);
+  background-image: url(../assets/img/comp.jpg);
   background-position: center;
   background-size:auto;
   background-repeat: no-repeat;
