@@ -3,6 +3,9 @@ body {
   background-color: #E0DDAA;
   text-align: center;
 }
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
 .column {
   float: left;
   width: 33.3%;
