@@ -18,8 +18,8 @@ body {
 }
 img {
   padding-top: 2%;
-  max-width: 750px;
-  max-height: 250px;
+  max-width: 550px;
+  max-height: 200px;
 }
 
 .card:hover .card-img-top {
